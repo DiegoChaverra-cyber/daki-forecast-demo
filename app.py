@@ -15,9 +15,9 @@ st.set_page_config(
 st.title("📈 Forecast Error KPI Dashboard")
 
 # Sidebar for file upload
+st.sidebar.image("logo_daki.png")
 st.sidebar.header("Upload your Excel data")
 # Mostrar el logo de Daki en la barra lateral
-st.sidebar.image("logo_daki.png")
 
 
 
